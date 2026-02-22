@@ -32,20 +32,26 @@ Raw Superstore dataset (Sales, Profit, Discount, Quantity, Category, Region, Seg
 ↓ Data modeling & relationship setup
 
 ↓ DAX measure creation
-  • Total Sales
-  • Total Profit
-  • Profit Margin (%)
-  • Average Order Value
-  • Total Orders
-  • YoY Growth
 
+   • Total Sales
+  
+   • Total Profit
+  
+   • Profit Margin (%)
+  
+   • Average Order Value
+  
+   • Total Orders
+  
+   • YoY Growth
+  
 ↓ 3-page interactive dashboard design:
 
-  • Page 1: Executive Overview (KPIs + Trends + Quarterly Comparison)
+   • Page 1: Executive Overview (KPIs + Trends + Quarterly Comparison)
   
-  • Page 2: Category & Product Performance (Top & Bottom Analysis)
+   • Page 2: Category & Product Performance (Top & Bottom Analysis)
   
-  • Page 3: Region & Customer Insights (Regional Contribution + Segment Profitability + Customer Margin Analysis)
+   • Page 3: Region & Customer Insights (Regional Contribution + Segment Profitability + Customer Margin Analysis)
 
 ↓ Business insight generation & strategic recommendations
 
