@@ -22,7 +22,7 @@ The objective of this project is to analyze sales performance using the Supersto
 - Do higher discounts reduce overall profitability?
 - Where are the biggest opportunities to improve margins?
 
-
+Dashboard Interaction <a href="https://github.com/VarshithDev/Superstore-_Sales_Professional_Dashboard/blob/main/sales_project.pdf">View Dashboard</a>
 
 ## Process
 Raw Superstore dataset (Sales, Profit, Discount, Quantity, Category, Region, Segment)
