@@ -57,19 +57,19 @@ Raw Superstore dataset (Sales, Profit, Discount, Quantity, Category, Region, Seg
 ### Executive Overview : 
 - Provides a high-level summary of overall sales performance, profitability, and growth trends to help leadership quickly assess business health.
 
-
+<img width="1528" height="858" alt="Screenshot 2026-02-22 210650" src="https://github.com/user-attachments/assets/99100aa0-ddb3-47b5-9e48-01793530257e" />
 
 
 ### Category & Product Performance : 
 - Analyzes category-wise sales and profit while identifying top-performing and loss-making products to support product and pricing decisions.
 
-
+<img width="1528" height="858" alt="Screenshot 2026-02-22 210650" src="https://github.com/user-attachments/assets/99100aa0-ddb3-47b5-9e48-01793530257e" />
 
 
 ### Region & Customer Insights :
 - Evaluates regional contribution, segment profitability, and customer-level margin patterns to uncover opportunities for strategic optimization.
 
-
+<img width="1528" height="858" alt="Screenshot 2026-02-22 210650" src="https://github.com/user-attachments/assets/99100aa0-ddb3-47b5-9e48-01793530257e" />
 
 
 ## Project Insights : 
