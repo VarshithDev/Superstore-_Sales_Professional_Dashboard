@@ -2,7 +2,7 @@
 ## Project Objective
 The objective of this project is to analyze sales performance using the Superstore dataset and build an interactive Power BI dashboard that provides executive-level insights into revenue growth, profitability, product performance, and regional contribution.
 
-## Dataset
+## Dataset Used
 - <a href="https://github.com/VarshithDev/Superstore-_Sales_Professional_Dashboard/blob/main/sales_project_data.xlsx">Dataset</a>
 
 ## Questions (KPIs)
