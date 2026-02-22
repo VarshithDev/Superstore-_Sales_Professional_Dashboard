@@ -78,7 +78,7 @@ Raw Superstore dataset (Sales, Profit, Discount, Quantity, Category, Region, Seg
 <img width="1526" height="856" alt="Screenshot 2026-02-22 210746" src="https://github.com/user-attachments/assets/bf8b61f3-8200-4e93-9d19-735a290d9a3c" />
 
 
-## Project Insights : 
+## Project Insights 
 🏆 **Central region dominates revenue – 36.9% of total sales and ₹311K in profit**
 
 💰 **Consumer segment leads profitability** – Contributes 50.6% of overall profit margin
@@ -91,7 +91,7 @@ Raw Superstore dataset (Sales, Profit, Discount, Quantity, Category, Region, Seg
 
 🎯 Customer-level margin variation exists – Opportunity for targeted pricing optimization
 
-## Final Conclusion : 
+## Final Conclusion 
 This project delivers a production-ready sales analytics dashboard that transforms raw Superstore transactional data into a structured 3-page interactive Power BI solution, enabling executive-level monitoring of revenue, profitability, product performance, and regional contribution.
 
 🏢 **Leadership**: Clear visibility into revenue growth, profit trends, and margin performance for strategic decision-making
