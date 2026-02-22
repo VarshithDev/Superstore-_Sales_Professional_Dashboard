@@ -42,7 +42,9 @@ Raw Superstore dataset (Sales, Profit, Discount, Quantity, Category, Region, Seg
 ↓ 3-page interactive dashboard design:
 
   • Page 1: Executive Overview (KPIs + Trends + Quarterly Comparison)
+  
   • Page 2: Category & Product Performance (Top & Bottom Analysis)
+  
   • Page 3: Region & Customer Insights (Regional Contribution + Segment Profitability + Customer Margin Analysis)
 
 ↓ Business insight generation & strategic recommendations
